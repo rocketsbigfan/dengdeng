@@ -1,19 +1,12 @@
 :root {
-  --main-color: #f79e38;
-  --prime-color: #e99036;
-  --red-color: #e64356;
-  --index-dog: 0;
-  --index-body: 3;
-  --index-head: 4;
-  --index-tail: 2;
-  --index-legs: 2;
-  --index-cheast: 4;
-  --index-hair: 2;
-  --index-face: 6;
-  --index-mouth: 6;
-  --index-eyes: 6;
-  --index-years: 1;
-  --index-nose: 7;
+    --bg-color: #ffcccc;
+    --fur: #33292b;
+    --inner-ear: #d36149;
+    --eye: #ddb54d;
+    --eyeball: #030303;
+    --eyelight: #fafafa;
+    --nose: #d3918e;
+    --heart: #dc4053;
 }
 
 .container {
